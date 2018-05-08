@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/fps-manager/fps-manager-dao" />
+    <file type="web" url="file://$PROJECT_DIR$/fps-manager/fps-manager-interface" />
+    <file type="web" url="file://$PROJECT_DIR$/fps-manager/fps-manager-pojo" />
+    <file type="web" url="file://$PROJECT_DIR$/fps-manager/fps-manager-service" />
+    <file type="web" url="file://$PROJECT_DIR$/fps-manager/fps-manager-web" />
+  </component>
+  <component name="IdProvider" IDEtalkID="0F77EFF0A67D6C3C7479C80BC4F9CA27" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/fps-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/fps-common/pom.xml" />
+        <option value="$PROJECT_DIR$/fps-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/fps-generator/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

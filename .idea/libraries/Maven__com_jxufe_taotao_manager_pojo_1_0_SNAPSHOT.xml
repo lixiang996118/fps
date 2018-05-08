@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jxufe:taotao-manager-pojo:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/MavenRepository/.m2/repository/com/jxufe/taotao-manager-pojo/1.0-SNAPSHOT/taotao-manager-pojo-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/MavenRepository/.m2/repository/com/jxufe/taotao-manager-pojo/1.0-SNAPSHOT/taotao-manager-pojo-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/MavenRepository/.m2/repository/com/jxufe/taotao-manager-pojo/1.0-SNAPSHOT/taotao-manager-pojo-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

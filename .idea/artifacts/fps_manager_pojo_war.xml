@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fps-manager-pojo:war">
+    <output-path>$PROJECT_DIR$/fps-manager/fps-manager-pojo/target</output-path>
+    <root id="archive" name="fps-manager-pojo.war">
+      <element id="artifact" artifact-name="fps-manager-pojo:war exploded" />
+    </root>
+  </artifact>
+</component>

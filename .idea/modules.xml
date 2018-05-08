@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fps-common/fps-common.iml" filepath="$PROJECT_DIR$/fps-common/fps-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fps-generator/fps-generator.iml" filepath="$PROJECT_DIR$/fps-generator/fps-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fps-manager/fps-manager.iml" filepath="$PROJECT_DIR$/fps-manager/fps-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fps-manager/fps-manager-dao/fps-manager-dao.iml" filepath="$PROJECT_DIR$/fps-manager/fps-manager-dao/fps-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fps-manager/fps-manager-interface/fps-manager-interface.iml" filepath="$PROJECT_DIR$/fps-manager/fps-manager-interface/fps-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fps-manager/fps-manager-pojo/fps-manager-pojo.iml" filepath="$PROJECT_DIR$/fps-manager/fps-manager-pojo/fps-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fps-manager/fps-manager-service/fps-manager-service.iml" filepath="$PROJECT_DIR$/fps-manager/fps-manager-service/fps-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fps-manager/fps-manager-web/fps-manager-web.iml" filepath="$PROJECT_DIR$/fps-manager/fps-manager-web/fps-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fps-parent/fps-parent.iml" filepath="$PROJECT_DIR$/fps-parent/fps-parent.iml" />
+    </modules>
+  </component>
+</project>
